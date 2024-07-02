@@ -83,3 +83,5 @@ Stwórz niestandardowe wyjątki, takie jak TaskNotFoundException, aby obsłuży�
 Zapewnij prosty interfejs wiersza poleceń, który pozwoli użytkownikowi na interakcję z aplikacją.
 
 Zeby uruchomić wpisać trzeba python3 main.py
+
+<!-- (co do testów nie jestem pewny sprwaiło mi to problem i duzo usunąłem) -->
